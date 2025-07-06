@@ -1,5 +1,7 @@
 # AuthMesh
 
+![AuthMesh Logo](logo-small.png)
+
 Welcome to **AuthMesh**, an open-source initiative dedicated to simplifying secure, scalable, and observable application development. Our mission is to provide modular, production-ready Go libraries and tools for authentication, authorization, metrics, and tracing, empowering developers to build robust systems with ease.
 
 ## About Us
